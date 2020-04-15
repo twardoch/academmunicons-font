@@ -2,7 +2,7 @@
 
 Academmunicons is a specialist icon font family for academics. It contains icons for websites and organisations related to academia that are often missing from mainstream font packages. It can be used by itself, but its primary purpose is to be used as a supplementary package alongside a larger icon set.
 
-<video controls width="666">
+<video controls width="530">
     <source src="./documentation/variable.mp4" type="video/mp4">
     <img src="./documentation/variable.gif">
 </video>
