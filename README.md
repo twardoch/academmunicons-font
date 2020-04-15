@@ -7,7 +7,7 @@ Academmunicons is a specialist icon font family for academics. It contains icons
     <img src="./documentation/variable.gif">
 </video>
 
-The font is available as a Variable OpenType TT font, where the Weight axis changes from no border to thick border, and the Italic axis switches between a circular border and a rounded-square border:
+The font is available as a Variable OpenType TT font, where the Weight axis changes from no border to thick border, and the Italic axis switches between a circular border and a rounded-square border. The font is licensed under [OFL](./LICENSE.txt).
 
 ### Glyph set
 
@@ -39,7 +39,10 @@ The “white” and “reversed” circular and rounded-square borders are also 
 
 ### Background
 
-The font Academmunicons was manufactured by Adam Twardoch. FontLab 7 sources are in the `sources` folder.
+- Website: https://twardoch.github.io/academmunicons-font/
+- Github repo: https://github.com/twardoch/academmunicons-font
+
+The font Academmunicons was manufactured by Adam Twardoch. FontLab 7 sources are in the `sources` folder. See [LICENSE.txt](./LICENSE.txt) for licensing details.
 
 Based on the [Academicons](https://jpswalsh.github.io/academicons/) font by James Walsh and Katja Bercic, licensed under the [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL).
 
