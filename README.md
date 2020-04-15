@@ -22,6 +22,8 @@ The font is available as a Variable OpenType TT font, where the Weight axis chan
 
 ![variable](./documentation/variable.gif)
 
+<video src="./documentation/variable.mp4"/>
+
 There are also traditional OpenType TT fonts available.
 
 You can also access the glyphs with `:academia:` (for no border), `:academia::` (for circular border) and `:academia:::` (for rounded-square border). Full list of names:
