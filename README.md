@@ -84,11 +84,11 @@ The “white” and “reversed” circular and rounded-square borders are also 
 
 ## Background
 
-The font Academmunicons was manufactured in [FontLab 7](http://fontlab.info) by Adam Twardoch.
+The font **Academmunicons** was manufactured in **[FontLab 7](http://fontlab.info)** by Adam Twardoch.
 
-- Website: https://twardoch.github.io/academmunicons-font/
-- Github repo: https://github.com/twardoch/academmunicons-font
-- The FontLab 7 source file (VFJ) is in the `sources` folder. See [LICENSE.txt](./LICENSE.txt) for licensing details.
+- Website: [https://twardoch.github.io/academmunicons-font/](https://twardoch.github.io/academmunicons-font/)
+- Github repo: [https://github.com/twardoch/academmunicons-font](https://github.com/twardoch/academmunicons-font)
+- The FontLab 7 source file (VFJ) is in the [`sources`](./sources/) folder. See [LICENSE.txt](./LICENSE.txt) for licensing details.
 - Based on the [Academicons](https://jpswalsh.github.io/academicons/) font by James Walsh and Katja Bercic, licensed under the [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL).
 - Based on the [Creative Commons icons](https://cc-icons.github.io/) font by Creative Commons, designed by Ricardo Barros, licensed under the [CC-BY-4.0 International license](https://creativecommons.org/licenses/by/4.0/).
 - The glyphs may depict trademarks or registered trademarks by the respective owners.
