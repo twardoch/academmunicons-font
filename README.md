@@ -13,7 +13,7 @@ The font is licensed under [OFL](./LICENSE.txt).
 
 ### Download
 
-#### [DOWNLOAD](./dist/academmunicons-fonts-200415.zip) zipped OpenType fonts (variable and static).
+#### ➽ [DOWNLOAD](./dist/academmunicons-fonts-200415.zip) zipped OpenType fonts (variable and static).
 
 ### Glyph set
 
