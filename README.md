@@ -15,6 +15,8 @@ The font is licensed under [OFL](./LICENSE.txt).
 
 #### ➽ [DOWNLOAD](./dist/academmunicons-fonts-200415.zip) zipped OpenType fonts (variable and static)
 
+_Version 200415_
+
 ## Glyph set
 
 Unicodes:
