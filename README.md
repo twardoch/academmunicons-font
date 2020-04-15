@@ -11,6 +11,10 @@ The font is available as a Variable OpenType TT font, where the Weight axis chan
 
 The font is licensed under [OFL](./LICENSE.txt).
 
+### Download
+
+#### [DOWNLOAD](./dist/academmunicons-fonts-200415.zip) zipped OpenType fonts (variable and static).
+
 ### Glyph set
 
 Unicodes:
@@ -77,10 +81,6 @@ The “white” and “reversed” circular and rounded-square borders are also 
 |     | `&#xF0D2;` | `\F0D2` | `:openaccess:`    |
 |     | `&#xF0D3;` | `\F0D3` | `:osf:`           |
 |     | `&#xF0D4;` | `\F0D4` | `:overleaf:`      |
-
-### Download
-
-[DOWNLOAD](./dist/academmunicons-fonts-200415.zip) zipped OpenType fonts (variable and static).
 
 ### Background
 
