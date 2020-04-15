@@ -1,6 +1,6 @@
 # academmunicons-font
 
-Academmunicons is a specialist icon font family for academics. It contains icons for websites and organisations related to academia that are often missing from mainstream font packages. It can be used by itself, but its primary purpose is to be used as a supplementary package alongside a larger icon set.
+Academmunicons is a specialist variable icon font family for academics. It contains icons for websites and organisations related to academia that are often missing from mainstream font packages. It can be used by itself, but its primary purpose is to be used as a supplementary package alongside a larger icon set.
 
 <video autoplay loop controls style="max-width:530px; width:100%">
     <source src="./documentation/variable.mp4" type="video/mp4">
