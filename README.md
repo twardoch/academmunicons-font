@@ -2,6 +2,13 @@
 
 Academmunicons is a specialist icon font family for academics. It contains icons for websites and organisations related to academia that are often missing from mainstream font packages. It can be used by itself, but its primary purpose is to be used as a supplementary package alongside a larger icon set.
 
+<video controls width="666">
+    <source src="./documentation/variable.mp4" type="video/mp4">
+    <img src="./documentation/variable.gif">
+</video>
+
+The font is available as a Variable OpenType TT font, where the Weight axis changes from no border to thick border, and the Italic axis switches between a circular border and a rounded-square border:
+
 ### Glyph set
 
 Base glyph set:
@@ -18,12 +25,6 @@ You can access the glyphs with these PUA characters:
 
 ```
 
-The font is available as a Variable OpenType TT font, where the Weight axis changes from no border to thick border, and the Italic axis switches between a circular border and a rounded-square border:
-
-![variable](./documentation/variable.gif)
-
-<video src="./documentation/variable.mp4"/>
-
 There are also traditional OpenType TT fonts available.
 
 You can also access the glyphs with `:academia:` (for no border), `:academia::` (for circular border) and `:academia:::` (for rounded-square border). Full list of names:
@@ -38,7 +39,7 @@ The “white” and “reversed” circular and rounded-square borders are also 
 
 ### Background
 
-The font Academmunicons was manufactured by Adam Twardoch.
+The font Academmunicons was manufactured by Adam Twardoch. FontLab 7 sources are in the `sources` folder.
 
 Based on the [Academicons](https://jpswalsh.github.io/academicons/) font by James Walsh and Katja Bercic, licensed under the [SIL Open Font License, Version 1.1](http://scripts.sil.org/OFL).
 
