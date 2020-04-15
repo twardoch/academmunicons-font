@@ -1,13 +1,13 @@
-# academmunicons-font
+# Academmunicons: variable icon font for academics
 
-Academmunicons is a specialist variable icon font family for academics. It contains icons for websites and organisations related to academia that are often missing from mainstream font packages. It can be used by itself, but its primary purpose is to be used as a supplementary package alongside a larger icon set.
+**Academmunicons** is a specialist variable icon font family for academics. It contains icons for websites and organizations related to academia that are often missing from mainstream font packages. It can be used by itself, but its primary purpose is to be used as a supplementary package alongside a larger icon set.
 
 <video autoplay loop controls style="max-width:530px; width:100%">
     <source src="./documentation/variable.mp4" type="video/mp4">
     <img src="./documentation/variable.gif">
 </video>
 
-The font is available as a Variable OpenType TT font, where the Weight axis changes from no border to thick border, and the Italic axis switches between a circular border and a rounded-square border. There are also traditional OpenType TT fonts available.
+The font is available as a **Variable OpenType** TT font, where the **Weight** (`wght`) axis changes from **no border** to **reversed**, and the **Italic** (`ital`) axis switches between a **circular border** and a **rounded-square border**. Traditional OpenType TT fonts are also available.
 
 The font is licensed under [OFL](./LICENSE.txt).
 
