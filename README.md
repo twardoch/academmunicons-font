@@ -11,11 +11,11 @@ The font is available as a **Variable OpenType** TT font, where the **Weight** (
 
 The font is licensed under [OFL](./LICENSE.txt).
 
-### Download
+## Download
 
 #### ➽ [DOWNLOAD](./dist/academmunicons-fonts-200415.zip) zipped OpenType fonts (variable and static)
 
-### Glyph set
+## Glyph set
 
 Unicodes:
 
@@ -82,7 +82,7 @@ The “white” and “reversed” circular and rounded-square borders are also 
 |     | `&#xF0D3;` | `\F0D3` | `:osf:`           |
 |     | `&#xF0D4;` | `\F0D4` | `:overleaf:`      |
 
-### Background
+## Background
 
 - Website: https://twardoch.github.io/academmunicons-font/
 - Github repo: https://github.com/twardoch/academmunicons-font
