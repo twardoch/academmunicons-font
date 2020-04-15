@@ -1,0 +1,40 @@
+This font features trademarks or registered trademarks of the following:
+
+- Academia
+- Acclaim
+- ACM
+- ACMDL
+- ADX
+- Arxiv
+- Biorxiv
+- Creative Commons
+- Ceur
+- Coursera
+- Cv
+- Dataverse
+- DBLP
+- Depsy
+- DOI
+- Dryad
+- Figshare
+- Google Scholar
+- Ideas Repec
+- IEEE
+- Impact Story
+- Inspire
+- Lattes
+- Math Overflow
+- Mendeley
+- Open Access
+- ORCID
+- OSF
+- Overleaf
+- Phil Papers
+- Piazza
+- Publons
+- Pub Med
+- Researcher ID
+- Research Gate
+- Sci Rate
+- Springer
+- Zotero

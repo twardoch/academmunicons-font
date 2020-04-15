@@ -1,0 +1,17 @@
+---
+unified font repository version: "0.3"
+unified font repository url: https://github.com/unified-font-repository/Unified-Font-Repository
+typeface family:
+  name: Academmunicons
+  tags:
+    - icons
+    - academic
+    - academia
+  repository url: https://github.com/twardoch/academmunicons-font
+  project url: https://twardoch.github.io/academmunicons-font
+  project status: alpha
+  tools:
+    - FontLab 7
+  similar fonts:
+  sample text:
+    - en_us: The quick brown fox jumps over the lazy dog
