@@ -110,3 +110,4 @@ dmypy.json
 .pyre/
 
 dev/
+.DS_Store
