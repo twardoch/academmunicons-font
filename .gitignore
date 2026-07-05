@@ -111,3 +111,6 @@ dmypy.json
 
 dev/
 .DS_Store
+
+# Codebase snapshot artifact — regenerated on demand, not a source file
+llms.txt

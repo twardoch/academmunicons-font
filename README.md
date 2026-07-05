@@ -17,6 +17,29 @@ The font is licensed under [OFL](./LICENSE.txt).
 
 _Version 200415_
 
+## Use it on the web
+
+Point `@font-face` at the variable font, then set an icon with its plain-text name via the `liga` feature (or drop in the raw PUA character):
+
+```css
+@font-face {
+  font-family: "Academmunicons";
+  src: url("fonts/Variable-TT/Academmunicons-VF.ttf") format("truetype");
+  font-weight: 1 1000;
+}
+
+.icon {
+  font-family: "Academmunicons";
+  font-feature-settings: "liga" 1; /* :orcid: → the ORCID mark */
+}
+```
+
+```html
+<span class="icon">:orcid:</span>
+```
+
+Slide the `wght` axis from *no border* to *reversed*, and the `ital` axis from *circle* to *rounded square*, with `font-variation-settings: "wght" 700, "ital" 1;`. Prefer the static fonts in [`fonts/OpenType-TT`](./fonts/OpenType-TT/) when a variable font is not an option.
+
 ## Glyph set
 
 Unicodes:

@@ -1,0 +1,52 @@
+name: CI
+
+# Validate that every shipped font file is a parseable, well-formed
+# OpenType/TrueType binary. The fonts are the product, so a font that
+# fontTools cannot open is a release blocker.
+
+on:
+  push:
+    branches: [master, main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate-fonts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install fontTools
+        run: python -m pip install --upgrade "fonttools>=4.50"
+
+      - name: Parse every font with fontTools
+        run: |
+          python - <<'PY'
+          import sys
+          from pathlib import Path
+          from fontTools.ttLib import TTFont
+
+          fonts = sorted(Path("fonts").rglob("*.ttf"))
+          if not fonts:
+              sys.exit("No fonts found under fonts/ — nothing to validate.")
+
+          failed = []
+          for path in fonts:
+              try:
+                  font = TTFont(path)
+                  # Touch the tables that matter for an icon font.
+                  _ = font["name"].getDebugName(4)  # full name
+                  _ = font.getBestCmap()            # usable character map
+                  print(f"OK   {path}")
+              except Exception as exc:  # noqa: BLE001 — report, don't crash
+                  failed.append((path, exc))
+                  print(f"FAIL {path}: {exc}")
+
+          if failed:
+              sys.exit(f"{len(failed)} font(s) failed validation.")
+          print(f"\nAll {len(fonts)} fonts parsed cleanly.")
+          PY
