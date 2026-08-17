@@ -114,3 +114,5 @@ dev/
 
 # Codebase snapshot artifact — regenerated on demand, not a source file
 llms.txt
+htmlcov/
+*.pyc
